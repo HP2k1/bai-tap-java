@@ -1,7 +1,0 @@
-$ java -cp out Bai03
-INPUT: A, b, * (Enter sau moi ky tu)
-Timer1 = 15ms; Timer2 = 7ms. Nhap ky tu roi Enter; * de dung.
-[BEL]Timer1: c = 'A', hexa = 0x0041
-[BEL][BEL][BEL][BEL]Timer1: c = 'b', hexa = 0x0062
-[BEL][BEL][BEL][BEL]Timer1: c = '*', hexa = 0x002A
-Bai03: da huy ca hai timer.
