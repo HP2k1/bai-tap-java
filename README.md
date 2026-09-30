@@ -4,11 +4,10 @@
 
 | Nội dung | Thông tin |
 |---|---|
-| Họ và tên | **ĐIỀN HỌ TÊN** |
-| Mã sinh viên | **ĐIỀN MSSV** |
-| Lớp | **ĐIỀN LỚP** |
-| Môn học | **ĐIỀN MÔN HỌC** |
-| Giảng viên | **ĐIỀN GIẢNG VIÊN** |
+| Họ và tên | Phạm Viết Hiếu |
+| Mã sinh viên | 19810310671 |
+| Lớp | DH.10 |
+| Môn học | Lập trình hệ thống |
 | Link Git | https://github.com/HP2k1/bai-tap-java |
 
 ## 1. Cấu trúc và môi trường
@@ -149,6 +148,6 @@ Log đầy đủ: [bai04.txt](logs/bai04.txt).
 
 Repository: https://github.com/HP2k1/bai-tap-java
 
-Mã nguồn, hướng dẫn, log và ảnh trình bày kết quả được lưu tại repository này. Trước khi nộp, điền thông tin sinh viên ở đầu README, chạy chương trình trên máy của mình và thay ảnh log bằng ảnh chụp terminal theo mục 6.
+Mã nguồn, hướng dẫn, log và ảnh trình bày kết quả được lưu tại repository này. Trước khi nộp, chạy chương trình trên máy của mình và thay ảnh log bằng ảnh chụp terminal theo mục 6.
 
 Sau khi cập nhật, kiểm tra cả bốn ảnh hiển thị trong README rồi nộp link repository ở trên.
